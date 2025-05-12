@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1746710038 source:c:\users\15448481\downloads\ex01\ex01.c
+	"EX01.h"
+
+1746709492 source:c:\users\15448481\downloads\ex01\main.c
+	"EX01.h"
+
+1746709430 c:\users\15448481\downloads\ex01\ex01.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1747009830 source:c:\users\edalp\onedrive\Área de trabalho\programação\programas em c\ex03\main.c
+	"EX03.h"
+
+1747009769 c:\users\edalp\onedrive\Área de trabalho\programação\programas em c\ex03\ex03.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1747009780 source:c:\users\edalp\onedrive\Área de trabalho\programação\programas em c\ex03\ex03.c
+	"EX03.h"
+
